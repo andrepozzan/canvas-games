@@ -8,7 +8,7 @@ If you have any recommendations or want to report a bug, you can get in touch.  
 
 ## To view
 
-:octocat: Go to github pages to access the page: <a href="https://andre-possan.github.io/ping-pong/" target="_blank">https://andre-possan.github.io/ping-pong/</a>
+:octocat: Go to github pages to access the page: <a href="https://andre-possan.github.io/canvas-games/ping-pong/" target="_blank">https://andre-possan.github.io/canvas-games/ping-pong/</a>
 
 # Cross the Road <img aling="center" alt="html" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg"><img aling="center" alt="js" height="35" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg">
 
@@ -20,5 +20,5 @@ If you have any recommendations or want to report a bug, you can get in touch.  
 
 ## To view
 
-:octocat: Go to github pages to access the page: <a href="https://andre-possan.github.io/cross-the-road/" target="_blank">https://andre-possan.github.io/cross-the-road/</a>
+:octocat: Go to github pages to access the page: <a href="https://andre-possan.github.io/canvas-games/cross-the-road/" target="_blank">https://andre-possan.github.io/canvas-games/cross-the-road/</a>
 
